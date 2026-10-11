@@ -1,0 +1,1 @@
+# Calculating-percentage-average-and-total-Number-of-a-student-in-C.-language.-
